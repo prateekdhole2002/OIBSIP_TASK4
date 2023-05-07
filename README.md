@@ -1,4 +1,4 @@
-Title : Email Detection usnig Python
+Title : Email Spam Detection with Machine Learning
 
 Description : In this project the model is trained to detect the spam mails. The project includes data processing, model training and evaluation.
 
